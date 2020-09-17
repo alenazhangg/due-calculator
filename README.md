@@ -11,9 +11,7 @@ Users can enter updated information used to calculate dues for a specific member
 <br /><br />
 Users can also view full reports of dues assessed per year and dues assessed for a specific member.
 <img src= /images/fullreport.png width="600">
-<img src= /images/memberduesassessed.png width="600">
-
-<br /><br />
+<img src= /images/memberduesassessed.png width="600"><br />
 For more information behind the calculation of dues assessed per component, please refer to the Eclipse source code of the project `DueCalculator/src/`.
 <br /><br />
 
