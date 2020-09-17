@@ -1,6 +1,6 @@
-# TEC Membership Due Calculator
+# Membership Due Calculator
 
-A JAR application built using Java and JavaFX that calculates the membership dues assessed for the 75 members of Texas Electric Cooperatives. 
+A JAR application built using Java and JavaFX that calculates the membership dues assessed for the members of an electric cooperative. 
 Dues are assessed in equal proportions on three components: **equal payment**, the **number of electric meters served**, and **revenue minus cost of power**.
  <br /><br /><br />
 The application gives users the option to choose between three main functions. 
@@ -13,7 +13,7 @@ Users can also view full reports of dues assessed per year and dues assessed for
 <img src= /images/FullReport.png width="600">
 <img src= /images/MemberDuesAssessed.png width="600">
 
-**Note:** The membership information displayed in the images has been modified to protect the privacy of TEC members. <br /><br />
+**Note:** The membership information displayed in the images has been modified to protect the privacy of members. <br /><br />
 
 For more detailed information behind the calculations of each due component, please refer to `Documentation/Crit_C_Development.pdf`.
 <br /><br />
