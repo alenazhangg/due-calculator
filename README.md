@@ -14,5 +14,8 @@ Users can also view full reports of dues assessed per year and dues assessed for
 <img src= /images/memberduesassessed.png width="600">
 
 <br /><br />
-The Eclipse source code of the project can be found in `DueCalculator/src/`. The `DueCalculator.jar` is a runnable JAR file of the application. It scans in 
-`duesdata.txt`, a data file of membership information used to calculate dues. However, this data file has not been provided due to privacy concerns. 
+For more information behind the calculation of dues assessed per component, please refer to the Eclipse source code of the project `DueCalculator/src/`.
+<br /><br />
+
+The `DueCalculator.jar` is a runnable JAR file of the application. It scans in `duesData.txt`, a data file of membership information used to calculate dues. 
+The `duesData.txt` file contains placeholder data used to demonstrate the functionality of the `DueCalculator.jar` application.
